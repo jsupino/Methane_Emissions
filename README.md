@@ -8,6 +8,8 @@ https://www.iea.org/data-and-statistics/data-tools/methane-tracker-data-explorer
 
 Dataset contains 1,548 items and 9 attributes.
 
+This project uses numpy, pandas, matplotlib, seaborn, and geopandas to conduct the data analysis.
+
 Objectives:
 1. Compare the World’s methane emission types.
 2. Compare the methane emissions for each region based on the top two types of methane emissions.
